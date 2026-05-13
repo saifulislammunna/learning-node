@@ -1,0 +1,22 @@
+ 
+
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15",
+    "price": 999,
+    "description": "6.1-inch Super Retina XDR display, A16 Bionic chip, 48MP main camera, USB-C connectivity, and advanced iOS features."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "description": "6.2-inch Dynamic AMOLED display, Snapdragon processor, triple-camera system, AI-powered features, and long-lasting battery."
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 399,
+    "description": "Industry-leading noise cancellation, high-resolution audio, 30-hour battery life, and comfortable over-ear design."
+  }
+]
